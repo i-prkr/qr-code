@@ -24,8 +24,8 @@ This project is a component for a qr-code to be displayed on a card, using just 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/i-prkr/qr-code)
-- Live Site URL: [Add live site URL here](https://i-prkr.github.io/qr-code/)
+- Solution URL: [https://github.com/i-prkr/qr-code](Github Repository)
+- Live Site URL: [https://i-prkr.github.io/qr-code/](Hosted on Github Pages)
 
 ## My process
 
