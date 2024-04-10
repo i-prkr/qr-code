@@ -1,25 +1,51 @@
 @font-face {
     font-family: Outfit-700;
-    src: url('./fonts/Outfit-Medium.ttf');
+    src: url('./fonts/Outfit-VariableFont_wght.ttf');
     font-weight: 700
 }
 
 @font-face {
     font-family: Outfit-400;
-    src: url('./fonts/Outfit-Medium.ttf');
+    src: url('./fonts/Outfit-VariableFont_wght.ttf');
     font-weight: 400
 }
 
 body {
     font-family: Outfit-400;
     background-color: hsl(212, 45%, 89%);
+    height: 100vh;
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+h4 {
+    font-family: Outfit-700;
+    font-weight: 400;
+    font-size: 22px;
+    margin: 16px;
+    text-align: center;
+}
+
+p {
+    margin-top: 16px;
+    margin-left: 32px;
+    margin-right: 32px;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
 }
 
 .card {
     background-color: hsl(0, 0%, 100%);
     width: 320px;
     height: 497px;
+    border-radius: 5%;
+}
+
+.qr-image {
+    height: 288px;
+    width: 288px;
+    margin: 16px;
+    border-radius: 5%;
 }
