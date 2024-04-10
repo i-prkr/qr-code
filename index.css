@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Outfit-700;
+    src: url('./fonts/Outfit-Medium.ttf');
+    font-weight: 700
+}
+
+@font-face {
+    font-family: Outfit-400;
+    src: url('./fonts/Outfit-Medium.ttf');
+    font-weight: 400
+}
+
+body {
+    font-family: Outfit-400;
+}
