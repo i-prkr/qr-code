@@ -14,11 +14,12 @@ body {
     font-family: Outfit-400;
     background-color: hsl(212, 45%, 89%);
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card {
     background-color: hsl(0, 0%, 100%);
     width: 320px;
     height: 497px;
-    justify-content: center;
 }
