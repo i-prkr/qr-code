@@ -16,8 +16,8 @@ body {
 
 .page {
     color: hsl(212, 45%, 89%);
-    width:max-content;
-    height:max-content;
+    width: 100%;
+    height: 100%;
 }
 
 .card {
