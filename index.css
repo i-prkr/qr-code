@@ -21,4 +21,6 @@ body {
     width: 320px;
     height: 497px;
     align-self: center;
+    justify-self: center;
+    border-radius: 80%;
 }
